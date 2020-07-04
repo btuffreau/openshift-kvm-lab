@@ -1,0 +1,6 @@
+[infra]
+oc-infra
+[masters]
+oc-master
+[nodes]
+oc-worker
